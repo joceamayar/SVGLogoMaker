@@ -58,6 +58,8 @@ Triangle: https://stackoverflow.com/questions/46699715/place-text-inside-of-the-
 
 Destructuring: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
+Constructures: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+
 s
 
 
