@@ -27,7 +27,7 @@ To install this program you have to make sure to installed  Node.js system, whic
 
 ## Usage
 
-The SVG Logo Maker enables users to design professional logos for their projects without the need for a graphic designer. It offers a selection of primary shapes - circles, squares, and triangles - which users can combine and customize by adding their business initials with up to three letters and picking their favorite colors.
+The SVG Logo Maker enables users to design professional logos for their projects without the need for a graphic designer. It offers a selection of primary shapes - circles, squares, and triangles - which users can customize by adding their business initials with up to three letters and picking their favorite colors.
 
 
 
