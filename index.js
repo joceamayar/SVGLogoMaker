@@ -9,8 +9,7 @@ let svgShapes = new SVG("AND", "green", "Triangle", "yellow");
 console.log(svgShapes);
 
 let svgString = `<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    ${svgShapes.render()}
-    
+    ${svgShapes.render()} 
     </svg>`;
 
 fs.writeFile("lib/shape.svg", svgString, function (err) {
@@ -20,5 +19,8 @@ fs.writeFile("lib/shape.svg", svgString, function (err) {
         console.log("File written successfully\n");
     }
 })
+
+
+
 
 
